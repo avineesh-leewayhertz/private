@@ -1,0 +1,1 @@
+geth --networkid 4224 --mine --miner.threads=2 --datadir "." --nodiscover --http --http.port "8545" --port "30304" --http.corsdomain "https://remix.ethereum.org" --nat "any" --http.api eth,web3,personal,net --ipcdisable --authrpc.port "8552" --unlock 0 --allow-insecure-unlock --password ./password.sec

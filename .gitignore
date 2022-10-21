@@ -1,3 +1,7 @@
 node_modules
-geth/chaindata/ancient
+geth/LOCK
+.puppeth/chainskills
+chaindata/CURRENT.bak
+geth/chaindata
 geth/lightchaindata
+nodes
