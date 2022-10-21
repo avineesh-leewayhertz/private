@@ -1,0 +1,3 @@
+node_modules
+geth/chaindata/ancient
+geth/lightchaindata
